@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-To observe how the website's code is more accessible, please check the repository link here ___ or navigate to the agency's website and right-click, click on inspect and observe the code there.
+To observe how the website's code is more accessible, please check the repository link here https://github.com/saycatnab/refactoring-website or navigate to the agency's website (https://saycatnab.github.io/refactoring-website/) and right-click, click on inspect and observe the code there.
 Although it hasn't made any observable changes on the website, the code is much more organized as seen t=in the source code.
 
 
